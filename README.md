@@ -8,6 +8,8 @@
       2) chrm_number_GC_content.py - Script to calculate GC content per chromosome/scaffold in a genome with a given cutoff size (> 1MB)
       3) get_mean_GC.py - Script to calculate mean GC for species when given inidivual chromosome data
 
+      Bonus script) GC_totals_eukaryotes.py - Script used to calculate GC content totals for different Animal subgroups using data from NCBI (https://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/eukaryotes.txt)
+
 #### 01-cdsGC
       1) get_genes.py - Script to download cds and protein data from DTOL 
       2) cds_GCcontent.py - Script to calculate cds GC content per chromosome/scaffold in a genome with a given cutoff size.
