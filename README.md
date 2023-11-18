@@ -64,6 +64,7 @@ Scripts to produce Figure 4
 ## /05 - Bombylius/ 
     1) get_sneath_index.py
 Script to calculate sneath value index. This script uses function from get_genetrees.py so must be in the same dir as that script:
+
     2) get_genetrees.py 
 Provides functionality to get_sneath_index.py, doesn't need to be run 
 
