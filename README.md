@@ -4,7 +4,6 @@
 Code repository for all scripts used to collect data, perform statistics and create figures for the paper *"GC content across insect genomes: phylogenetic patterns, causes and consequences"*
 
 
-
 # Contents 
 
 ## /01 - Global/
