@@ -2,6 +2,7 @@
 # Insect_GC_content
 
 Code repository for all scripts used to collect data, perform statistics and create figures for the paper *"GC content across insect genomes: phylogenetic patterns, causes and consequences"*
+
 Kyriacou, R.G., Mulhair, P.O. & Holland, P.W.H. GC Content Across Insect Genomes: Phylogenetic Patterns, Causes and Consequences. J Mol Evol 92, 138–152 (2024). https://doi.org/10.1007/s00239-024-10160-5
 
 # Contents 
